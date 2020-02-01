@@ -1,0 +1,19 @@
+---
+title: "New NLP Framework"
+output: html_notebook
+---
+
+First, load in the data files:
+
+```{r}
+pos <- read.delim("positive.txt")
+neg <- read.delim("negative.txt")
+```
+
+Now add positive and negative tags to the appropriate imported data
+
+```{r}
+posTag <- data.frame(pos[,1],'sentiment'='pos')
+negTag <- data.frame(neg[,1],'sentiment'='neg')
+```
+

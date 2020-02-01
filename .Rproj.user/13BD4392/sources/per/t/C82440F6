@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580509671442.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1111805398",
+    "id" : "C82440F6",
+    "lastKnownWriteTime" : 1580517795,
+    "last_content_update" : 1580517795293,
+    "path" : "~/github/NewNLP-framework/New NLP Framework - R Notebook.Rmd",
+    "project_path" : "New NLP Framework - R Notebook.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

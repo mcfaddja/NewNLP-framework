@@ -1,0 +1,2 @@
+"0","posTag <- data.frame(pos[,1],'sentiment'='pos')"
+"0","negTag <- data.frame(neg[,1],'sentiment'='neg')"
